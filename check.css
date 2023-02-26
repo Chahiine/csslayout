@@ -1,0 +1,20 @@
+h1 {
+  align-content: center;
+  font-size: 60px;
+  font-family: "Tilt Warp", cursive;
+}
+.hold {
+  font-family: "Roboto Slab", serif;
+  font-family: "Tilt Warp", cursive;
+}
+.balde {
+  font-size: 60px;
+  border: black solid;
+}
+#ahme {
+  display: flex;
+  justify-content: space-around;
+}
+.frame {
+  background-image: url(man.jpg);
+}
